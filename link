@@ -1,0 +1,68 @@
+# tls_WS_direct_vless g1.jam1.fun
+vless://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=ws&path=/u6ix1LB4sxnVGYaZdP/vlessws&host=g1.jam1.fun&encryption=none&fingerprint=chrome&headerType=None#tls_WS_direct_vless_g1.jam1.fun
+
+
+# tls_WS_direct_trojan g1.jam1.fun
+trojan://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=ws&path=/u6ix1LB4sxnVGYaZdP/trojanws&host=g1.jam1.fun&fingerprint=chrome&headerType=None#tls_WS_direct_trojan_g1.jam1.fun
+
+
+# tls_WS_direct_vmess g1.jam1.fun
+vmess://eyJ2IjoiMiIsICJwcyI6InRsc19XU19kaXJlY3Rfdm1lc3NfZzEuamFtMS5mdW4iLCAiYWRkIjoiZzEuamFtMS5mdW4iLCAicG9ydCI6IjQ0MyIsICJpZCI6IjgyOTBjOTBmLWUxNWMtNDNiNS05ZTRlLTFiMTE3MjhjZDA0YyIsICJhaWQiOiIwIiwgInNjeSI6ImF1dG8iLCAibmV0Ijoid3MiLCAidHlwZSI6Im5vbmUiLCAiaG9zdCI6ImcxLmphbTEuZnVuIiwgInBhdGgiOiIvdTZpeDFMQjRzeG5WR1lhWmRQL3ZtZXNzd3MiLCAidGxzIjoidGxzIiwgInNuaSI6ImcxLmphbTEuZnVuIn0=
+
+
+# tls_tcp_direct_vless g1.jam1.fun
+vless://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=tcp&path=/u6ix1LB4sxnVGYaZdP/vltc&encryption=none&fingerprint=chrome&headerType=None#tls_tcp_direct_vless_g1.jam1.fun
+
+
+# tls_tcp_direct_trojan g1.jam1.fun
+trojan://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=tcp&path=/u6ix1LB4sxnVGYaZdP/trtc&fingerprint=chrome&headerType=None#tls_tcp_direct_trojan_g1.jam1.fun
+
+
+# tls_tcp_direct_vmess g1.jam1.fun
+vmess://eyJ2IjoiMiIsICJwcyI6InRsc190Y3BfZGlyZWN0X3ZtZXNzX2cxLmphbTEuZnVuIiwgImFkZCI6ImcxLmphbTEuZnVuIiwgInBvcnQiOiI0NDMiLCAiaWQiOiI4MjkwYzkwZi1lMTVjLTQzYjUtOWU0ZS0xYjExNzI4Y2QwNGMiLCAiYWlkIjoiMCIsICJzY3kiOiJhdXRvIiwgIm5ldCI6InRjcCIsICJ0eXBlIjoibm9uZSIsICJob3N0IjoiIiwgInBhdGgiOiIvdTZpeDFMQjRzeG5WR1lhWmRQL3ZtdGMiLCAidGxzIjoidGxzIiwgInNuaSI6ImcxLmphbTEuZnVuIn0=
+
+
+# tls_faketls_direct_ss g1.jam1.fun
+ss://5bc8cf4f-0250-465d-a432-09ed09549de8@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=faketls&fingerprint=chrome&headerType=None#tls_faketls_direct_ss_g1.jam1.fun
+
+
+# tls_WS_direct_v2ray g1.jam1.fun
+ss://proxy["encryption"]:5bc8cf4f-0250-465d-a432-09ed09549de8@g1.jam1.fun:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D/u6ix1LB4sxnVGYaZdP/v2ray/%3Bhost%3Dg1.jam1.fun%3Btls&amp;udp-over-tcp=true#tls_WS_direct_v2ray_g1.jam1.fun
+
+
+
+
+# http_WS_direct_vless g1.jam1.fun
+vless://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:80?security=none&sni=g1.jam1.fun&type=ws&path=/u6ix1LB4sxnVGYaZdP/vlessws&host=g1.jam1.fun&encryption=none&fingerprint=chrome&headerType=None#http_WS_direct_vless_g1.jam1.fun
+
+
+# http_WS_direct_vmess g1.jam1.fun
+vmess://eyJ2IjoiMiIsICJwcyI6Imh0dHBfV1NfZGlyZWN0X3ZtZXNzX2cxLmphbTEuZnVuIiwgImFkZCI6ImcxLmphbTEuZnVuIiwgInBvcnQiOiI4MCIsICJpZCI6IjgyOTBjOTBmLWUxNWMtNDNiNS05ZTRlLTFiMTE3MjhjZDA0YyIsICJhaWQiOiIwIiwgInNjeSI6ImF1dG8iLCAibmV0Ijoid3MiLCAidHlwZSI6Im5vbmUiLCAiaG9zdCI6ImcxLmphbTEuZnVuIiwgInBhdGgiOiIvdTZpeDFMQjRzeG5WR1lhWmRQL3ZtZXNzd3MiLCAidGxzIjoiaHR0cCIsICJzbmkiOiJnMS5qYW0xLmZ1biJ9
+
+
+# http_tcp_direct_vless g1.jam1.fun
+vless://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:80?security=none&sni=g1.jam1.fun&type=tcp&path=/u6ix1LB4sxnVGYaZdP/vltc&encryption=none&fingerprint=chrome&headerType=None#http_tcp_direct_vless_g1.jam1.fun
+
+
+# http_tcp_direct_vmess g1.jam1.fun
+vmess://eyJ2IjoiMiIsICJwcyI6Imh0dHBfdGNwX2RpcmVjdF92bWVzc19nMS5qYW0xLmZ1biIsICJhZGQiOiJnMS5qYW0xLmZ1biIsICJwb3J0IjoiODAiLCAiaWQiOiI4MjkwYzkwZi1lMTVjLTQzYjUtOWU0ZS0xYjExNzI4Y2QwNGMiLCAiYWlkIjoiMCIsICJzY3kiOiJhdXRvIiwgIm5ldCI6InRjcCIsICJ0eXBlIjoibm9uZSIsICJob3N0IjoiIiwgInBhdGgiOiIvdTZpeDFMQjRzeG5WR1lhWmRQL3ZtdGMiLCAidGxzIjoiaHR0cCIsICJzbmkiOiJnMS5qYW0xLmZ1biJ9
+
+
+# http_WS_direct_v2ray g1.jam1.fun
+ss://proxy["encryption"]:5bc8cf4f-0250-465d-a432-09ed09549de8@g1.jam1.fun:80?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D/u6ix1LB4sxnVGYaZdP/v2ray/%3Bhost%3Dg1.jam1.fun%3Btls&amp;udp-over-tcp=true#http_WS_direct_v2ray_g1.jam1.fun
+
+
+# tls_XTLS_direct_vless g1.jam1.fun
+vless://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?flow=xtls-rprx-vision&security=tls&type=tcp&sni=g1.jam1.fun&type=tcp&encryption=none&fingerprint=chrome&headerType=None#tls_XTLS_direct_vless_g1.jam1.fun
+
+
+# tls_grpc_direct_vless g1.jam1.fun
+vless://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=grpc&serviceName=u6ix1LB4sxnVGYaZdP-vlgrpc&mode=multi&encryption=none&fingerprint=chrome&headerType=None#tls_grpc_direct_vless_g1.jam1.fun
+
+
+# tls_grpc_direct_trojan g1.jam1.fun
+trojan://8290c90f-e15c-43b5-9e4e-1b11728cd04c@g1.jam1.fun:443?security=tls&sni=g1.jam1.fun&type=grpc&serviceName=u6ix1LB4sxnVGYaZdP-trgrpc&mode=multi&fingerprint=chrome&headerType=None#tls_grpc_direct_trojan_g1.jam1.fun
+
+
+# tls_grpc_direct_vmess g1.jam1.fun
+vmess://eyJ2IjoiMiIsICJwcyI6InRsc19ncnBjX2RpcmVjdF92bWVzc19nMS5qYW0xLmZ1biIsICJhZGQiOiJnMS5qYW0xLmZ1biIsICJwb3J0IjoiNDQzIiwgImlkIjoiODI5MGM5MGYtZTE1Yy00M2I1LTllNGUtMWIxMTcyOGNkMDRjIiwgImFpZCI6IjAiLCAic2N5IjoiYXV0byIsICJuZXQiOiJncnBjIiwgInR5cGUiOiJub25lIiwgImhvc3QiOiIiLCAicGF0aCI6IiIsICJ0bHMiOiJ0bHMiLCAic25pIjoiZzEuamFtMS5mdW4ifQ==
